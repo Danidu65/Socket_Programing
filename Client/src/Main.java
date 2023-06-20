@@ -25,6 +25,5 @@ public class Main {
             System.out.println(reply);
         }
         socket.close();
-
     }
 }
